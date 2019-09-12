@@ -4,7 +4,7 @@ int print_spaces(int n);
 
 int main() {
   int en;
-  printf("Enter Even Number: ");
+  printf("Enter Odd Number: ");
   scanf("%d",&en);
   if (en >= 1 && en%2 == 1) {
   int array[en];
